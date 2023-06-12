@@ -3,12 +3,6 @@
 - Staged content rendering
 - Progress Bar
 
-## Installed:
-
-uuid - to create a random UUID (id)
-
-###`npm install uuid`
-
 ## Available Scripts
 
 In the project directory, you can run:
